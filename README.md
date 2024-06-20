@@ -1,6 +1,8 @@
-#  Landing Page
+# Landing Page
 
-This is a simple  landing page built using HTML and CSS.
+## Languages Used
+-HTML
+-CSS
 
 ## Features
 
